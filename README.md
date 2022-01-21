@@ -18,4 +18,4 @@ Default name is `mysqldb`
 You can see some information of container that created by terraform like ip, hostname, image, ... and alse you can see random password in output.
 
 
-[@dwsclass](‫‪https://github.com/dwsclass‬‬) dws-ops-002-terraform
+[@dwsclass](https://github.com/dwsclass) dws-ops-002-terraform
