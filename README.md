@@ -6,6 +6,8 @@ First initialize terraform:
 `terraform init`
 
 Then you can create a mysql container. You can pass the container's name when you apply terraform:
+
+
 `terraform apply -var "database_name=<YourMySqlName>"`
 Default name is `mysqldb`
 
