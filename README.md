@@ -9,6 +9,9 @@ Then you can create a mysql container. You can pass the container's name when yo
 
 
 `terraform apply -var "database_name=<YourMySqlName>"`
+
+
+
 Default name is `mysqldb`
 
 ## Output
